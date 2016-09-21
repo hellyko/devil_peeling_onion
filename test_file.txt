@@ -1,0 +1,5 @@
+test test test. 
+Am i dumb? Sure.
+But even zombie-monkeys from outer space can use Git. 
+So i also can.
+
